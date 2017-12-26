@@ -1,0 +1,84 @@
+2017-11-26 16:58:22.695000
+Theo0907#6390
+bot-dangereux sur FTW
+bender log start all
+End of command
+
+
+2017-11-28 17:26:00.922000
+Theo0907#6390
+Salonbot-dangereux sur FTW
+bender menu
+End of command
+
+
+2017-11-28 19:53:35.055000
+cybervv#4875
+Salonbot sur Bar à Ginette
+bender ID
+End of command
+
+
+2017-11-28 20:03:07.718000
+cybervv#4875
+Salonbot sur Bar à Ginette
+bender log
+End of command
+
+
+2017-11-28 20:03:31.104000
+cybervv#4875
+Salonbot sur Bar à Ginette
+bender log start
+End of command
+
+
+Début de l'enregistrement2017-11-28 20:03:48.264000
+cybervv#4875
+Salonbot sur Bar à Ginette
+bender log  stop
+End of command
+
+
+Fin de l'enregistrement2017-11-29 15:44:10.171000
+cybervv#4875
+Salongeneral_generalement_genere sur FTW
+bender role
+End of command
+
+
+2017-11-29 15:44:14.947000
+cybervv#4875
+Salongeneral_generalement_genere sur FTW
+bender log
+End of command
+
+
+2017-11-29 15:44:22.206000
+cybervv#4875
+Salongeneral_generalement_genere sur FTW
+bender Bonjour
+End of command
+
+
+2017-11-29 15:44:27.721000
+Theo0907#6390
+Salongeneral_generalement_genere sur FTW
+bender bonjour
+End of command
+
+
+2017-11-29 16:05:03.874000
+Theo0907#6390
+Salonbot-dangereux sur FTW
+bender menu
+End of command
+
+
+2017-11-29 16:56:54.286000
+Theo0907#6390
+Salonbot-dangereux sur FTW
+bender ID
+End of command
+
+

@@ -1,0 +1,9 @@
+Fichier de config.
+
+
+Personnes autorisées à démarer la fonction de suppression(la première valeur doit être True pour activer la whitelist ou False por la désactiver.
+authorized_to_start_deletion = ["True"]
+
+Groupes qui sont autorisés à démarer la fonction de suppression(la première valeur doit être True pour activer la whitelist ou False por la désactiver.
+grade_authorized_to_start_deletion = ["False"]
+
